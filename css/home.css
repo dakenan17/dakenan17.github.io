@@ -34,7 +34,7 @@ h3{
 h5{
     font-size: 20px;
     margin-left: 5%;
-    width: 100%;
+    width: 90%;
     text-align: justify;
 
 }
@@ -106,11 +106,11 @@ svg:hover{
 }
 
 
-.welcome{
+/* .welcome{
     display:flex;
     flex-direction: column;
     align-content: center;
-}
+} */
 
 .logo{
     width: 100%;
