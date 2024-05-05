@@ -81,7 +81,6 @@ footer{
     grid-area: footer;
     /* background-color: #f9b4ed; */
     background-color: #a70f6f;
-
     height: 50px;
     color: white;
     position: fixed;
@@ -120,11 +119,11 @@ svg:hover{
     justify-self: center;
 }
 
-/* .message{
+.message{
     background-color: white;
     align-self: center;
     font-size: 16px;
-} */
+}
 
 .four-pics{
     display: flex;
